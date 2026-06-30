@@ -1,1 +1,1 @@
-iprint("App.py") linux-2
+print("App.py") windows
